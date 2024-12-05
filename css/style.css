@@ -79,7 +79,7 @@ a:focus {
 /*header section*/
 .hero_area {
   position: relative;
-  background-image:url("C:/Users/rays/Desktop/fasil vi/inance-html/images/fasil 12.jpg");
+  background-image:url("images/fasil 12.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }   
@@ -441,7 +441,7 @@ a:focus {
 
 .professional_section {
   position: relative;
-  background-image:url("C:Users/rays/Desktop/fasil vi/inance-html/images/fasil 1234.webp");
+  background-image:url("images/fasil 1234.webp");
   background-size: cover;
   background-repeat: no-repeat;
 }
