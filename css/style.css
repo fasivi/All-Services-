@@ -79,9 +79,7 @@ a:focus {
 /*header section*/
 .hero_area {
   position: relative;
-  background-image:url("images/fasil 12.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-color: #d1e3ff;
 }   
 
 .header_section .container-fluid {
