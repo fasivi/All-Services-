@@ -79,7 +79,7 @@ a:focus {
 /*header section*/
 .hero_area {
   position: relative;
-  background-color: #green;
+  background-color: #grey;
 }   
 
 .header_section .container-fluid {
@@ -438,7 +438,7 @@ a:focus {
 }
 
 .professional_section {
-  background-color:black;
+  background-color:blue;
 }
 
 .professional_section .row {
