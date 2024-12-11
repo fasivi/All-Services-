@@ -438,10 +438,7 @@ a:focus {
 }
 
 .professional_section {
-  position: relative;
-  background-image:url("images/fasil 1234.webp");
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-color:black;
 }
 
 .professional_section .row {
